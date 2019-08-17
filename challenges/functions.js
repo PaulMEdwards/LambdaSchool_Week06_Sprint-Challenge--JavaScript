@@ -6,9 +6,9 @@ console.log("");  //blank line
 
 // ==== Callbacks ====
 
-console.log("=========");
+console.log("---------");
 console.log("Callbacks");
-console.log("=========");
+console.log("---------");
 
 console.log("");  //blank line
 
@@ -53,9 +53,9 @@ console.log("");  //blank line
 
 // ==== Closures ====
 
-console.log("========");
+console.log("--------");
 console.log("Closures");
-console.log("========");
+console.log("--------");
 
 console.log("");  //blank line
 
