@@ -6,9 +6,9 @@ console.log("=================");
 
 console.log("");  //blank line
 
-console.log("=======");
+console.log("-------");
 console.log("Objects");
-console.log("=======");
+console.log("-------");
 
 console.log("");  //blank line
 
@@ -76,9 +76,9 @@ console.log("");  //blank line
 
 // ==== Arrays ====
 
-console.log("======");
+console.log("------");
 console.log("Arrays");
-console.log("======");
+console.log("------");
 
 console.log("");  //blank line
 
@@ -125,9 +125,9 @@ console.log("");  //blank line
 
 // ==== ADVANCED Array Methods ====
 
-console.log("======================");
+console.log("----------------------");
 console.log("ADVANCED Array Methods");
-console.log("======================");
+console.log("----------------------");
 
 console.log("");  //blank line
 
