@@ -69,7 +69,7 @@ Follow these steps for completing your project:
 
 - [x] Submit a Pull-Request to merge `<firstName-lastName>` Branch into master (student's  Repo).
 - [x] Add your team lead as a Reviewer on the Pull-request
-- [ ] TL then will count the HW as done by  merging the branch back into master.
+- [x] TL then will count the HW as done by  merging the branch back into master.
 
 ## Minimum Viable Product
 
