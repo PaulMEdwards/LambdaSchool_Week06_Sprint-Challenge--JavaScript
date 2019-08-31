@@ -153,7 +153,7 @@ Return an array with only the animal and scientific names in it.
 The individual values in the array should look like this "Name: Jackal, asiatic, Scientific: Canis aureus."`);
 
 const animalNames = [];
-zooAnimals.forEach(a => animalNames.push(`Name: ${a.animal_name}, Scientifit: ${a.scientific_name}.`));
+zooAnimals.forEach(a => animalNames.push(`Name: ${a.animal_name}, Scientific: ${a.scientific_name}.`));
 console.log(animalNames);
 
 console.log("");  //blank line
